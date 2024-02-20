@@ -19,7 +19,7 @@
 
 <ul class="list">
     <li class="list-item"> <a href="{{url('about')}}">About</a> </li>
-    <li class="list-item"> <a href="{{url('contact')}}">Contact</a></li>
+    <li class="list-item"> <a href="{{URL::to('contact')}}">Contact</a></li>
 </ul>
 
 
